@@ -41,7 +41,13 @@ Tujuannya adalah untuk menampilkan **proyek, keterampilan, dan pengalaman** deng
 ---
 
 ## 📸 Preview
-![Preview Screenshot](./public/preview.png)  
+![Preview Screenshot](./public/preview1.png)  
+![Preview Screenshot](./public/preview2.png)  
+![Preview Screenshot](./public/preview3.png)  
+![Preview Screenshot](./public/preview4.png)  
+![Preview Screenshot](./public/preview5.png)  
+![Preview Screenshot](./public/preview6.png)  
+![Preview Screenshot](./public/preview7.png)  
 
 ---
 
